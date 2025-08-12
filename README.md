@@ -102,3 +102,16 @@ The application predicts the price of a house, for example: `$450,000.00`.
 * **Feature Engineering:** Add new features, such as `age_of_house`, or interaction terms to potentially improve model performance.
 * **Deployment:** Deploy the Flask application to a cloud platform like Heroku or Render for public access.
 * **User Interface:** Enhance the web application with a more interactive UI, providing visualizations of the data or a confidence score for each prediction.
+
+
+## Screen Shots
+
+**Home Page:**
+
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/2751b6e6-443b-41c4-a16c-c045580be74a" />
+
+
+**Result Page:**
+
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/10dac498-8d32-460a-aa4f-70484b9be43b" />
+
